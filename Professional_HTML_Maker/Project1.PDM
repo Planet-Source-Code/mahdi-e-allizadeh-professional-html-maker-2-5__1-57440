@@ -1,0 +1,1541 @@
+[Root]
+Most Recent Package=Standard Setup Package 9
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\M2Asm dos\New Folder (2)
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+Jet 2.x=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=
+C:\WINDOWS\SYSTEM\MSI.DLL=
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=
+C:\WINDOWS\SYSTEM\DX8VB.DLL=
+C:\WINDOWS\SYSTEM\DX7VB.DLL=
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\program files\common files\microsoft shared\dao\dao350.dll=
+c:\windows\system\expsrv.dll=
+c:\windows\system\msi.dll=
+c:\windows\system\msscript.ocx=
+c:\windows\system\proctexe.ocx=
+c:\windows\system\richtx32.ocx=
+c:\windows\system\msvcrt.dll=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+d:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\windows\system\vb5db.dll=
+c:\windows\system\vbajet32.dll=
+d:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt40.dll=
+c:\windows\system\msrepl35.dll=
+c:\windows\system\msrd2x35.dll=
+c:\windows\system\msjter35.dll=
+c:\windows\system\msjint35.dll=
+c:\windows\system\msjet35.dll=
+c:\windows\system\asctrls.ocx=
+c:\windows\system\comdlg32.ocx=
+c:\windows\system\mscomctl.ocx=
+d:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\riched32.dll=
+c:\windows\system\tabctl32.ocx=
+d:\program files\microsoft visual studio\common\tools\ape\regtool5.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=No
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=No
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=No
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX7VB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX8VB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSI.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=No
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=M2A HTML Maker
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|M2A HTML Maker]
+Icon1="M2A HTML Maker_2.exe"
+Title1=M2A HTML Maker
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\M2Asm dos\New Folder (2)
+ProjectFolder=D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM
+ServerSideCab=
+File1=D:\M2Asm dos\New Folder (2)\setup.exe
+File2=D:\M2Asm dos\New Folder (2)\Setup.Lst
+File3=D:\M2Asm dos\New Folder (2)\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\M2Asm dos\New Folder (2)
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+Jet 2.x=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=
+C:\WINDOWS\SYSTEM\MSI.DLL=
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=
+C:\WINDOWS\SYSTEM\DX8VB.DLL=
+C:\WINDOWS\SYSTEM\DX7VB.DLL=
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Standard Setup Package 2|Files Added]
+
+[Package|Standard Setup Package 2|Files Removed]
+c:\program files\common files\microsoft shared\dao\dao350.dll=
+c:\windows\system\expsrv.dll=
+c:\windows\system\msi.dll=
+c:\windows\system\msscript.ocx=
+c:\windows\system\proctexe.ocx=
+c:\windows\system\richtx32.ocx=
+c:\windows\system\msvcrt.dll=
+c:\windows\system\vb5db.dll=
+c:\windows\system\vbajet32.dll=
+d:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt40.dll=
+c:\windows\system\msrepl35.dll=
+c:\windows\system\msrd2x35.dll=
+c:\windows\system\msjter35.dll=
+c:\windows\system\msjint35.dll=
+c:\windows\system\msjet35.dll=
+c:\windows\system\asctrls.ocx=
+c:\windows\system\comdlg32.ocx=
+c:\windows\system\mscomctl.ocx=
+d:\program files\microsoft visual studio\common\tools\ape\regtool5.dll=
+c:\windows\system\tabctl32.ocx=
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=No
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=No
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX7VB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX8VB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSI.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=No
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=M2A HTML Maker
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|M2A HTML Maker]
+Icon1="M2A HTML Maker_2.exe"
+Title1=M2A HTML Maker
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=D:\M2Asm dos\New Folder (2)
+ProjectFolder=D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM
+ServerSideCab=
+File1=D:\M2Asm dos\New Folder (2)\setup.exe
+File2=D:\M2Asm dos\New Folder (2)\Setup.Lst
+File3=D:\M2Asm dos\New Folder (2)\M2A_HTML_Maker_2.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\M2Asm dos\New Folder (2)\Support
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+Jet 2.x=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=
+C:\WINDOWS\SYSTEM\MSI.DLL=
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=
+C:\WINDOWS\SYSTEM\DX8VB.DLL=
+C:\WINDOWS\SYSTEM\DX7VB.DLL=
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+c:\program files\common files\microsoft shared\dao\dao350.dll=
+c:\windows\system\expsrv.dll=
+c:\windows\system\msi.dll=
+c:\windows\system\msscript.ocx=
+c:\windows\system\proctexe.ocx=
+c:\windows\system\richtx32.ocx=
+c:\windows\system\msvcrt.dll=
+c:\windows\system\vb5db.dll=
+c:\windows\system\vbajet32.dll=
+d:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt40.dll=
+c:\windows\system\msrepl35.dll=
+c:\windows\system\msrd2x35.dll=
+c:\windows\system\msjter35.dll=
+c:\windows\system\msjint35.dll=
+c:\windows\system\msjet35.dll=
+c:\windows\system\asctrls.ocx=
+c:\windows\system\comdlg32.ocx=
+c:\windows\system\mscomctl.ocx=
+d:\program files\microsoft visual studio\common\tools\ape\regtool5.dll=
+c:\windows\system\tabctl32.ocx=
+
+[Package|Dep File 1|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=No
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=No
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX7VB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX8VB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSI.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=$(AppPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=No
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker
+
+[Package|Dep File 1|IconGroups]
+Group0=M2A HTML Maker
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Dep File 1|M2A HTML Maker]
+Icon1="M2A HTML Maker_2.exe"
+Title1=M2A HTML Maker
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Dep File 1|DepFile]
+DepCabFile=M2A_HTML_Maker_2.CAB
+DepCabRun=M2A_HTML_Maker_2.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\M2Asm dos\New Folder (2)\Support
+ProjectFolder=D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM
+ServerSideCab=
+File1=D:\M2Asm dos\New Folder (2)\Support\M2A_HTML_Maker_2.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Setup vb Programs
+
+[Package|Standard Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+Jet 2.x=No
+
+[Package|Standard Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 3|Files Found]
+
+[Package|Standard Setup Package 3|Files Released]
+
+[Package|Standard Setup Package 3|Missing Dependency Information]
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=
+C:\WINDOWS\SYSTEM\MSI.DLL=
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=
+C:\WINDOWS\SYSTEM\DX8VB.DLL=
+C:\WINDOWS\SYSTEM\DX7VB.DLL=
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=
+
+[Package|Standard Setup Package 3|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Standard Setup Package 3|Files Added]
+
+[Package|Standard Setup Package 3|Files Removed]
+c:\program files\common files\microsoft shared\dao\dao350.dll=
+c:\windows\system\expsrv.dll=
+c:\windows\system\msi.dll=
+c:\windows\system\msscript.ocx=
+c:\windows\system\proctexe.ocx=
+c:\windows\system\msvcrt.dll=
+c:\windows\system\vb5db.dll=
+c:\windows\system\vbajet32.dll=
+d:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt40.dll=
+c:\windows\system\msrepl35.dll=
+c:\windows\system\msrd2x35.dll=
+c:\windows\system\msjter35.dll=
+c:\windows\system\msjint35.dll=
+c:\windows\system\msjet35.dll=
+c:\windows\system\asctrls.ocx=
+d:\program files\microsoft visual studio\common\tools\ape\regtool5.dll=
+
+[Package|Standard Setup Package 3|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 3|Install Locations]
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX7VB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX8VB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSI.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=$(AppPath)
+
+[Package|Standard Setup Package 3|Configure Shared Files]
+Applicable=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=No
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=No
+
+[Package|Standard Setup Package 3|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker 2.00
+
+[Package|Standard Setup Package 3|DepFile]
+DepCabFile=M2A_HTML_Maker_2.CAB
+DepCabRun=M2A_HTML_Maker_2.INF
+
+[Package|Standard Setup Package 3|Package]
+PackageFolder=D:\Setup vb Programs
+ProjectFolder=D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM
+ServerSideCab=
+File1=D:\Setup vb Programs\setup.exe
+File2=D:\Setup vb Programs\Setup.Lst
+File3=D:\Setup vb Programs\M2A_HTML_Maker_2.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 3|IconGroups]
+Group0=M2A HTML Maker
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 3|M2A HTML Maker]
+Icon1=M2A_HTML_Maker_2.exe
+Title1=M2A HTML Maker 2
+StartIn1=$(AppPath)
+Key1=Icon2
+
+
+[Package|Dep File 2|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\Setup vb Programs
+
+[Package|Dep File 2|Configure DAO ISAMs]
+Applicable=No
+Jet 2.x=No
+
+[Package|Dep File 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 2|Files Found]
+
+[Package|Dep File 2|Files Released]
+
+[Package|Dep File 2|Missing Dependency Information]
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=
+C:\WINDOWS\SYSTEM\MSI.DLL=
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=
+C:\WINDOWS\SYSTEM\DX8VB.DLL=
+C:\WINDOWS\SYSTEM\DX7VB.DLL=
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=
+
+[Package|Dep File 2|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=
+C:\WINDOWS\SYSTEM\scrrun.dll=
+
+[Package|Dep File 2|Files Added]
+
+[Package|Dep File 2|Files Removed]
+c:\program files\common files\microsoft shared\dao\dao350.dll=
+c:\windows\system\expsrv.dll=
+c:\windows\system\msi.dll=
+c:\windows\system\msscript.ocx=
+c:\windows\system\proctexe.ocx=
+c:\windows\system\msvcrt.dll=
+c:\windows\system\vb5db.dll=
+c:\windows\system\vbajet32.dll=
+d:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\msvcrt40.dll=
+c:\windows\system\msrepl35.dll=
+c:\windows\system\msrd2x35.dll=
+c:\windows\system\msjter35.dll=
+c:\windows\system\msjint35.dll=
+c:\windows\system\msjet35.dll=
+c:\windows\system\asctrls.ocx=
+d:\program files\microsoft visual studio\common\tools\ape\regtool5.dll=
+
+[Package|Dep File 2|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=Yes
+
+[Package|Dep File 2|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 2|Install Locations]
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX7VB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DX8VB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=$(AppPath)
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\PROCTEXE.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSCRIPT.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSI.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=$(WinSysPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=$(AppPath)
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=$(AppPath)
+
+[Package|Dep File 2|Configure Shared Files]
+Applicable=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A HTML _EXE\M2A HTML Maker_2.exe=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ILog.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\ctor.dll=No
+C:\Program Files\Common Files\InstallShield\IScript\IScript.dll=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\IKERNEL.EXE=No
+C:\Program Files\Common Files\InstallShield\engine\6\Intel 32\iuser.dll=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\M2A_HTML_Maker_2.exe=No
+D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM\Project1.exe=No
+
+[Package|Dep File 2|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker 2.00
+
+[Package|Dep File 2|DepFile]
+DepCabFile=M2A_HTML_Maker_2.CAB
+DepCabRun=M2A_HTML_Maker_2.INF
+
+[Package|Dep File 2|IconGroups]
+Group0=M2A HTML Maker
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Dep File 2|M2A HTML Maker]
+Icon1=M2A_HTML_Maker_2.exe
+Title1=M2A HTML Maker 2
+StartIn1=$(AppPath)
+Key1=Icon2
+
+[Package|Dep File 2|Package]
+PackageFolder=D:\Setup vb Programs
+ProjectFolder=D:\Program Files\Microsoft Visual Studio\VB98\My Program\MM
+ServerSideCab=
+File1=D:\Setup vb Programs\M2A_HTML_Maker_2.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\New Folder
+
+[Package|Standard Setup Package 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 4|Files Found]
+
+[Package|Standard Setup Package 4|Files Released]
+
+[Package|Standard Setup Package 4|Missing Dependency Information]
+D:\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=
+D:\WINDOWS\system32\swflash.ocx=
+D:\WINDOWS\system32\msdxm.ocx=
+D:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|Standard Setup Package 4|Out-of-Date Dependency Information]
+D:\WINDOWS\system32\MSCOMCT2.OCX=
+D:\WINDOWS\system32\mscomctl.ocx=
+D:\WINDOWS\system32\tabctl32.ocx=
+D:\WINDOWS\system32\comdlg32.ocx=
+
+[Package|Standard Setup Package 4|Files Added]
+
+[Package|Standard Setup Package 4|Files Removed]
+
+[Package|Standard Setup Package 4|Files In Project]
+D:\Documents and Settings\Mahdi.M2A\Desktop\M2A HTML Maker 2.3.exe=Yes
+D:\WINDOWS\system32\msvbvm60.dll=Yes
+D:\WINDOWS\system32\oleaut32.dll=Yes
+D:\WINDOWS\system32\olepro32.dll=Yes
+D:\WINDOWS\system32\asycfilt.dll=Yes
+D:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\WINDOWS\system32\comdlg32.ocx=Yes
+D:\WINDOWS\system32\RICHTX32.OCX=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+D:\WINDOWS\system32\tabctl32.ocx=Yes
+D:\WINDOWS\system32\mscomctl.ocx=Yes
+D:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+D:\WINDOWS\system32\msdxm.ocx=Yes
+D:\WINDOWS\system32\COMCT232.OCX=Yes
+D:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+D:\WINDOWS\system32\swflash.ocx=Yes
+D:\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 4|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 4|Install Locations]
+D:\Documents and Settings\Mahdi.M2A\Desktop\M2A HTML Maker 2.3.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+D:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+D:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+D:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+D:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+D:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+D:\WINDOWS\system32\swflash.ocx=$(WinSysPath)
+D:\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 4|Configure Shared Files]
+Applicable=Yes
+D:\Documents and Settings\Mahdi.M2A\Desktop\M2A HTML Maker 2.3.exe=No
+
+[Package|Standard Setup Package 4|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker 2
+
+[Package|Standard Setup Package 4|IconGroups]
+Group0=M2A HTML Maker 2
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 4|M2A HTML Maker 2]
+Icon1="M2A HTML Maker 2.3.exe"
+Title1=M2A HTML Maker 2
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 4|Package]
+PackageFolder=D:\New Folder
+ProjectFolder=D:\Professional_HTML_Maker\Professional_HTML_Maker
+ServerSideCab=
+File1=D:\New Folder\setup.exe
+File2=D:\New Folder\Setup.Lst
+File3=D:\New Folder\M2A HTML Maker 2.3.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 5|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\New Folder
+
+[Package|Standard Setup Package 5|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 5|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 5|Files Found]
+
+[Package|Standard Setup Package 5|Files Released]
+
+[Package|Standard Setup Package 5|Missing Dependency Information]
+D:\WINDOWS\system32\AutoResize.ocx=
+D:\WINDOWS\system32\swflash.ocx=
+D:\WINDOWS\system32\msdxm.ocx=
+D:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|Standard Setup Package 5|Out-of-Date Dependency Information]
+D:\WINDOWS\system32\MSCOMCT2.OCX=
+D:\WINDOWS\system32\mscomctl.ocx=
+D:\WINDOWS\system32\tabctl32.ocx=
+D:\WINDOWS\system32\comdlg32.ocx=
+
+[Package|Standard Setup Package 5|Files Added]
+
+[Package|Standard Setup Package 5|Files Removed]
+d:\program files\common files\system\ado\msado20.tlb=
+
+[Package|Standard Setup Package 5|Files In Project]
+D:\Documents and Settings\Mahdi.M2A\Desktop\M2A HTML Maker 2.3.exe=Yes
+D:\WINDOWS\system32\msvbvm60.dll=Yes
+D:\WINDOWS\system32\oleaut32.dll=Yes
+D:\WINDOWS\system32\olepro32.dll=Yes
+D:\WINDOWS\system32\asycfilt.dll=Yes
+D:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\WINDOWS\system32\comdlg32.ocx=Yes
+D:\WINDOWS\system32\RICHTX32.OCX=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+D:\WINDOWS\system32\tabctl32.ocx=Yes
+D:\WINDOWS\system32\mscomctl.ocx=Yes
+D:\Program Files\Common Files\System\ado\msado20.tlb=No
+D:\WINDOWS\system32\msdxm.ocx=Yes
+D:\WINDOWS\system32\COMCT232.OCX=Yes
+D:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+D:\WINDOWS\system32\swflash.ocx=Yes
+D:\WINDOWS\system32\AutoResize.ocx=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 5|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 5|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 5|Install Locations]
+D:\Documents and Settings\Mahdi.M2A\Desktop\M2A HTML Maker 2.3.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+D:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+D:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+D:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+D:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+D:\WINDOWS\system32\swflash.ocx=$(WinSysPath)
+D:\WINDOWS\system32\AutoResize.ocx=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studioxp\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 5|Configure Shared Files]
+Applicable=Yes
+D:\Documents and Settings\Mahdi.M2A\Desktop\M2A HTML Maker 2.3.exe=No
+
+[Package|Standard Setup Package 5|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker 2
+
+[Package|Standard Setup Package 5|IconGroups]
+Group0=M2A HTML Maker
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 5|M2A HTML Maker]
+Icon1="M2A HTML Maker 2.3.exe"
+Title1=M2A HTML Maker 2.3
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 5|Package]
+PackageFolder=D:\New Folder
+ProjectFolder=D:\Professional_HTML_Maker\Professional_HTML_Maker
+ServerSideCab=
+File1=D:\New Folder\setup.exe
+File2=D:\New Folder\Setup.Lst
+File3=D:\New Folder\M2A HTML Maker 2.3.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 6|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Temp
+
+[Package|Standard Setup Package 6|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 6|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 6|Files Found]
+
+[Package|Standard Setup Package 6|Files Released]
+
+[Package|Standard Setup Package 6|Missing Dependency Information]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=
+C:\WINDOWS\system32\Macromed\Flash\swflash.ocx=
+C:\WINDOWS\system32\msdxm.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|Standard Setup Package 6|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomctl.ocx=
+
+[Package|Standard Setup Package 6|Files Added]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=
+
+[Package|Standard Setup Package 6|Files Removed]
+c:\program files\microsoft visual studio\vb98\my programs\my program win xp\professional_html_maker\professional_html_maker\jscript.zip=
+
+[Package|Standard Setup Package 6|Files In Project]
+C:\Documents and Settings\Mahdi\Desktop\M2A HTML Maker 2.4.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\msdxm.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\Macromed\Flash\swflash.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=No
+
+[Package|Standard Setup Package 6|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 6|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 6|Install Locations]
+C:\Documents and Settings\Mahdi\Desktop\M2A HTML Maker 2.4.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Macromed\Flash\swflash.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 6|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Mahdi\Desktop\M2A HTML Maker 2.4.exe=No
+
+[Package|Standard Setup Package 6|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker 2.4
+
+[Package|Standard Setup Package 6|IconGroups]
+Group0=M2A HTML Maker 2.4
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 6|M2A HTML Maker 2.4]
+Icon1="M2A HTML Maker 2.4.exe"
+Title1=M2A HTML Maker 2.4
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 6|Package]
+PackageFolder=C:\Temp
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker
+ServerSideCab=
+File1=C:\Temp\setup.exe
+File2=C:\Temp\Setup.Lst
+File3=C:\Temp\M2A HTML Maker 2.4.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 7|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Temp\New Folder
+
+[Package|Standard Setup Package 7|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 7|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 7|Files Found]
+
+[Package|Standard Setup Package 7|Files Released]
+
+[Package|Standard Setup Package 7|Missing Dependency Information]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\swflash.ocx=
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=
+C:\WINDOWS\system32\msdxm.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|Standard Setup Package 7|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 7|Files Added]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=
+
+[Package|Standard Setup Package 7|Files Removed]
+
+[Package|Standard Setup Package 7|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\M2A HTML Maker 2.4.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\msdxm.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\swflash.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=Yes
+
+[Package|Standard Setup Package 7|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 7|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 7|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\M2A HTML Maker 2.4.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\swflash.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=$(AppPath)
+
+[Package|Standard Setup Package 7|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\M2A HTML Maker 2.4.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=No
+
+[Package|Standard Setup Package 7|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker 2.4
+
+[Package|Standard Setup Package 7|IconGroups]
+Group0=M2A HTML Maker 2.4
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 7|M2A HTML Maker 2.4]
+Icon1="M2A HTML Maker 2.4.exe"
+Title1=M2A HTML Maker 2.4
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 7|Package]
+PackageFolder=C:\Temp\New Folder
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker
+ServerSideCab=
+File1=C:\Temp\New Folder\setup.exe
+File2=C:\Temp\New Folder\Setup.Lst
+File3=C:\Temp\New Folder\M2A HTML Maker 2.4.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 8|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Temp\M2Ahm
+
+[Package|Standard Setup Package 8|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 8|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 8|Files Found]
+
+[Package|Standard Setup Package 8|Files Released]
+
+[Package|Standard Setup Package 8|Missing Dependency Information]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\swflash.ocx=
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=
+C:\WINDOWS\system32\msdxm.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|Standard Setup Package 8|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 8|Files Added]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=
+
+[Package|Standard Setup Package 8|Files Removed]
+
+[Package|Standard Setup Package 8|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\M2A HTML Maker 2.4.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\msdxm.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\swflash.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=Yes
+
+[Package|Standard Setup Package 8|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 8|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 8|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\M2A HTML Maker 2.4.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\swflash.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=$(AppPath)
+
+[Package|Standard Setup Package 8|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\M2A HTML Maker 2.4.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=No
+
+[Package|Standard Setup Package 8|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker 2.4
+
+[Package|Standard Setup Package 8|IconGroups]
+Group0=M2A HTML Maker 2.4
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 8|M2A HTML Maker 2.4]
+Icon1="M2A HTML Maker 2.4.exe"
+Title1=M2A HTML Maker 2.4
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 8|Package]
+PackageFolder=C:\Temp\M2Ahm
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker
+ServerSideCab=
+File1=C:\Temp\M2Ahm\setup.exe
+File2=C:\Temp\M2Ahm\Setup.Lst
+File3=C:\Temp\M2Ahm\M2A HTML Maker 2.4.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 9|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\M2Ahm
+
+[Package|Standard Setup Package 9|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 9|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 9|Files Found]
+AutoResize.ocx=C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx
+
+[Package|Standard Setup Package 9|Files Released]
+
+[Package|Standard Setup Package 9|Missing Dependency Information]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\swflash.ocx=
+C:\WINDOWS\system32\msdxm.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\Macromed\Flash\Flash.ocx=
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=
+C:\WINDOWS\system32\AutoResize.ocx=
+C:\WINDOWS\system32\swflash.ocx=
+C:\WINDOWS\system32\Project1.ocx=
+
+[Package|Standard Setup Package 9|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 9|Files Added]
+c:\program files\microsoft visual studio\vb98\my programs\my program win xp\professional_html_maker\professional_html_maker\jscript.zip=
+
+[Package|Standard Setup Package 9|Files Removed]
+
+[Package|Standard Setup Package 9|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\M2A HTML Maker 2.4.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\msdxm.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=Yes
+C:\WINDOWS\system32\swflash.ocx=Yes
+C:\WINDOWS\system32\Project1.ocx=Yes
+
+[Package|Standard Setup Package 9|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 9|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 9|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\M2A HTML Maker 2.4.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\ocx\swflash.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\Professional_HTML_Maker\Professional_HTML_Maker\ocx\AutoResize.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Macromed\Flash\Flash.ocx=$(WinSysPath)
+C:\WINDOWS\system32\AutoResize.ocx=$(WinSysPath)
+C:\WINDOWS\system32\swflash.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Project1.ocx=$(WinSysPath)
+
+[Package|Standard Setup Package 9|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\M2A HTML Maker 2.4.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker\Jscript.zip=No
+
+[Package|Standard Setup Package 9|Distribution]
+Type=single
+Size=
+Title=M2A HTML Maker 2.4
+
+[Package|Standard Setup Package 9|Package]
+PackageFolder=C:\M2Ahm
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\My Programs\My program win xp\Professional_HTML_Maker\Professional_HTML_Maker
+ServerSideCab=
+File1=C:\M2Ahm\setup.exe
+File2=C:\M2Ahm\Setup.Lst
+File3=C:\M2Ahm\M2A HTML Maker 2.4.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 9|IconGroups]
+Group0=M2A HTML Maker 2.4
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 9|M2A HTML Maker 2.4]
+Icon1="M2A HTML Maker 2.4.exe"
+Title1=M2A HTML Maker 2.4
+StartIn1=$(AppPath)
+Key1=Icon1
